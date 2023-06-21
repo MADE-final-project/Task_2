@@ -1,3 +1,12 @@
 data
 cache
 catboost_info
+*.csv
+*.html
+*.exe
+.venv
+.vscode
+build
+dist
+ml_project.*
+__pycache__

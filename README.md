@@ -10,7 +10,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-2. Создать в корне проекта папку *data*, скачать и разместить в ней [данные](https://drive.google.com/drive/folders/1GmMMIrYE3U-dgqFBKEpVEjLEFDQEucbL?usp=drive_link).
+2. Создать в корне проекта папку *data*, скачать и разместить в ней [данные](https://drive.google.com/drive/folders/1GmMMIrYE3U-dgqFBKEpVEjLEFDQEucbL?usp=sharing).
 
 3. Запустить обучение модели:
 ```sh

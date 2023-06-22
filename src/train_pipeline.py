@@ -4,9 +4,6 @@ import numpy as np
 import pandas as pd
 import shap
 import matplotlib.pyplot as plt
-import warnings
-
-warnings.filterwarnings("ignore")
 
 from entities.train_pipeline_params import (
     read_train_pipeline_params,

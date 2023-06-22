@@ -16,4 +16,4 @@ pip install -r requirements.txt
 ```sh
 python src/train_pipeline.py configs/train_config.yaml
 ```
-*Примечание:* указать в конфиге флаг plotting_map=True, если необходимо отобразить результат на карте.
+*Примечание:* указать в конфиге флаг plotting_map равным True, если необходимо отобразить результат на карте.
